@@ -27,7 +27,7 @@
     "dependencies": {
         "angular": "^1.x",
         "d3": "^3.3.13",
-        "nvd3": "https://github.com/labcodes/nvd3.git#5bc72953187880a65e3b8a0fdb6c618fc697211f"
+        "nvd3": "https://github.com/labcodes/nvd3.git#a0657149f997e9015c6eddf998cb72d57d55e90b"
     },
     "ignore": [
         "**/.*",
